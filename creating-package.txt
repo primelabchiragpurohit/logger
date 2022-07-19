@@ -1,0 +1,7 @@
+Creating package
+
+https://softchris.github.io/golang-book/03-projects/03-create-shared-module/
+
+https://github.com/primelabchiragpurohit/logger
+
+go mod init github.com/primelabchiragpurohit/logger
